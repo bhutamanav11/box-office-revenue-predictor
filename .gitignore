@@ -91,10 +91,11 @@ tmp/
 
 credits.csv
 TMDB_movie_dataset_v11.csv
-try.py
+try
 new_entries_log.csv
 predictions_log.csv
 prediction_logger.py
 generate_feature_importance.py
+historical_averages.csv
 data/
 *.csv
