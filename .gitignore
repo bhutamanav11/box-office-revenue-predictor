@@ -96,3 +96,5 @@ new_entries_log.csv
 predictions_log.csv
 prediction_logger.py
 generate_feature_importance.py
+data/
+*.csv
