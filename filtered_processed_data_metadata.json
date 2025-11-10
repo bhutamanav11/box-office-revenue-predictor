@@ -1,0 +1,25 @@
+{
+  "saved_date": "2025-11-03 21:55:36",
+  "total_movies": 4880,
+  "date_range": "1980-2017",
+  "columns": [
+    "budget",
+    "runtime",
+    "vote_average",
+    "vote_count",
+    "popularity",
+    "release_year",
+    "release_month",
+    "primary_genre",
+    "lead_actor",
+    "director",
+    "production_company",
+    "release_season",
+    "budget_per_minute",
+    "vote_weighted_score",
+    "budget_log",
+    "popularity_log",
+    "revenue",
+    "roi"
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "best_revenue_model_name": "XGBoost (Tuned)",
+  "revenue_r2_score": 0.7695489027462243,
+  "revenue_rmse": 92550868.43752299
+}
