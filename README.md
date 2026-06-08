@@ -122,6 +122,6 @@ Box-Office-Revenue-Prediction/
 * Explore **transformer-based hybrid models** for sequential trend learning
 
 ---
-LinkedIn: [linkedin.com/in/aaryan-lunis](https://linkedin.com/in/aaryan-lunis)
+LinkedIn: [linkedin.com/in/manav-bhuta(www.linkedin.com/in/manav-bhuta)
 
 ---
